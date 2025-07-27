@@ -1,0 +1,252 @@
+[
+    {
+        "question": "What is the capital city of Kenya?",
+        "options": ["A. Kampala", "B. Nairobi", "C. Paris", "D. Cairo"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the language of the web?",
+        "options": ["A. Python", "B. C++", "C. Javascript", "D. English"],
+        "answer": "C"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["A. Venus", "B. Saturn", "C. Mars", "D. Jupiter"],
+        "answer": "C"
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["A. William Wordsworth", "B. Charles Dickens", "C. William Shakespeare", "D. Jane Austen"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "options": ["A. 90°C", "B. 100°C", "C. 80°C", "D. 120°C"],
+        "answer": "B"
+    },
+    {
+        "question": "Which is the largest ocean in the world?",
+        "options": ["A. Atlantic", "B. Indian", "C. Arctic", "D. Pacific"],
+        "answer": "D"
+    },
+    {
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": ["A. Oxygen", "B. Nitrogen", "C. Carbon Dioxide", "D. Hydrogen"],
+        "answer": "C"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["A. Vincent van Gogh", "B. Leonardo da Vinci", "C. Pablo Picasso", "D. Michelangelo"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the largest mammal?",
+        "options": ["A. Elephant", "B. Giraffe", "C. Blue Whale", "D. Polar Bear"],
+        "answer": "C"
+    },
+    {
+        "question": "Which continent is known as the 'Dark Continent'?",
+        "options": ["A. Asia", "B. Africa", "C. Europe", "D. Australia"],
+        "answer": "B"
+    },
+    {
+        "question": "What is H2O commonly known as?",
+        "options": ["A. Salt", "B. Oxygen", "C. Water", "D. Hydrogen"],
+        "answer": "C"
+    },
+    {
+        "question": "Which is the smallest prime number?",
+        "options": ["A. 0", "B. 1", "C. 2", "D. 3"],
+        "answer": "C"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["A. China", "B. Japan", "C. Korea", "D. Thailand"],
+        "answer": "B"
+    },
+    {
+        "question": "Who is the founder of Microsoft?",
+        "options": ["A. Steve Jobs", "B. Elon Musk", "C. Bill Gates", "D. Mark Zuckerberg"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["A. Au", "B. Ag", "C. Gd", "D. Go"],
+        "answer": "A"
+    },
+    {
+        "question": "How many continents are there?",
+        "options": ["A. 5", "B. 6", "C. 7", "D. 8"],
+        "answer": "C"
+    },
+    {
+        "question": "Which bird is the fastest on land?",
+        "options": ["A. Penguin", "B. Ostrich", "C. Eagle", "D. Emu"],
+        "answer": "B"
+    },
+    {
+        "question": "Which human organ is responsible for pumping blood?",
+        "options": ["A. Brain", "B. Lungs", "C. Heart", "D. Liver"],
+        "answer": "C"
+    },
+    {
+        "question": "In which year did World War II end?",
+        "options": ["A. 1940", "B. 1945", "C. 1950", "D. 1939"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["A. Iron", "B. Gold", "C. Diamond", "D. Quartz"],
+        "answer": "C"
+    },
+    {
+        "question": "Which country has the most population?",
+        "options": ["A. USA", "B. India", "C. China", "D. Indonesia"],
+        "answer": "C"
+    },
+    {
+        "question": "Which programming language is known for its snake logo?",
+        "options": ["A. Java", "B. Python", "C. Ruby", "D. PHP"],
+        "answer": "B"
+    },
+    {
+        "question": "What does CPU stand for?",
+        "options": ["A. Central Processing Unit", "B. Computer Power Unit", "C. Central Print Unit", "D. Control Panel Utility"],
+        "answer": "A"
+    },
+    {
+        "question": "Which country invented pizza?",
+        "options": ["A. France", "B. Italy", "C. USA", "D. Greece"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the square root of 64?",
+        "options": ["A. 6", "B. 7", "C. 8", "D. 9"],
+        "answer": "C"
+    },
+    {
+        "question": "Which organ purifies blood in the human body?",
+        "options": ["A. Heart", "B. Liver", "C. Lungs", "D. Kidney"],
+        "answer": "D"
+    },
+    {
+        "question": "Which animal is known as the King of the Jungle?",
+        "options": ["A. Tiger", "B. Elephant", "C. Lion", "D. Leopard"],
+        "answer": "C"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "options": ["A. HyperText Transfer Protocol", "B. HighText Transmission Protocol", "C. HyperText Translation Process", "D. None of the above"],
+        "answer": "A"
+    },
+    {
+        "question": "Which element is used in pencils?",
+        "options": ["A. Lead", "B. Graphite", "C. Carbon", "D. Zinc"],
+        "answer": "B"
+    },
+    {
+        "question": "Which country is famous for the Eiffel Tower?",
+        "options": ["A. Italy", "B. Spain", "C. Germany", "D. France"],
+        "answer": "D"
+    },
+    {
+        "question": "Which natural satellite orbits the Earth?",
+        "options": ["A. Mars", "B. Sun", "C. Moon", "D. Venus"],
+        "answer": "C"
+    },
+    {
+        "question": "Which is the tallest mountain in the world?",
+        "options": ["A. K2", "B. Everest", "C. Kilimanjaro", "D. Alps"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the main source of energy for the Earth?",
+        "options": ["A. Wind", "B. Fire", "C. Sun", "D. Moon"],
+        "answer": "C"
+    },
+    {
+        "question": "How many days are in a leap year?",
+        "options": ["A. 365", "B. 366", "C. 364", "D. 367"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the largest internal organ in the human body?",
+        "options": ["A. Heart", "B. Liver", "C. Kidney", "D. Lung"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "options": ["A. Yen", "B. Won", "C. Yuan", "D. Dollar"],
+        "answer": "A"
+    },
+    {
+        "question": "Which instrument is used to measure temperature?",
+        "options": ["A. Barometer", "B. Thermometer", "C. Altimeter", "D. Speedometer"],
+        "answer": "B"
+    },
+    {
+        "question": "How many hours are in a day?",
+        "options": ["A. 12", "B. 24", "C. 48", "D. 60"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the most abundant gas in Earth’s atmosphere?",
+        "options": ["A. Oxygen", "B. Carbon Dioxide", "C. Nitrogen", "D. Hydrogen"],
+        "answer": "C"
+    },
+    {
+        "question": "Who discovered gravity?",
+        "options": ["A. Galileo", "B. Albert Einstein", "C. Isaac Newton", "D. Nikola Tesla"],
+        "answer": "C"
+    },
+    {
+        "question": "Which country is known for samba dancing?",
+        "options": ["A. Brazil", "B. Argentina", "C. Mexico", "D. Spain"],
+        "answer": "A"
+    },
+    {
+        "question": "Which device is used to view distant objects?",
+        "options": ["A. Microscope", "B. Telescope", "C. Periscope", "D. Binoculars"],
+        "answer": "B"
+    },
+    {
+        "question": "Which blood type is a universal donor?",
+        "options": ["A. A", "B. B", "C. O", "D. AB"],
+        "answer": "C"
+    },
+    {
+        "question": "Which vitamin is provided by sunlight?",
+        "options": ["A. Vitamin A", "B. Vitamin C", "C. Vitamin D", "D. Vitamin B"],
+        "answer": "C"
+    },
+    {
+        "question": "Which metal is liquid at room temperature?",
+        "options": ["A. Iron", "B. Mercury", "C. Lead", "D. Zinc"],
+        "answer": "B"
+    },
+    {
+        "question": "Which number comes next in this pattern: 2, 4, 8, 16, ?",
+        "options": ["A. 20", "B. 24", "C. 30", "D. 32"],
+        "answer": "D"
+    },
+    {
+        "question": "Which year did man first land on the moon?",
+        "options": ["A. 1969", "B. 1970", "C. 1959", "D. 1980"],
+        "answer": "A"
+    },
+    {
+        "question": "Which planet has rings around it?",
+        "options": ["A. Earth", "B. Venus", "C. Saturn", "D. Mercury"],
+        "answer": "C"
+    },
+    {
+        "question": "How many legs does a spider have?",
+        "options": ["A. 6", "B. 8", "C. 10", "D. 12"],
+        "answer": "B"
+    },
+    {
+        "question": "Which famous scientist developed the theory of relativity?",
+        "options": ["A. Einstein", "B. Newton", "C. Curie", "D. Hawking"],
+        "answer": "A"
+    }
+]
